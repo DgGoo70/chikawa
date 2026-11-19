@@ -1,0 +1,6 @@
+{
+  "name": "치이카와 소개 랜딩 페이지",
+  "description": "작지만 열심히 살아가는 뭔가 작고 귀여운 녀석, 치이카와와 친구들의 따뜻한 일상과 세계관을 소개하는 원페이지 랜딩 페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
